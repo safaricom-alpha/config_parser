@@ -6,9 +6,10 @@
    [kernel,
     stdlib
    ]},
-  {env,[]},
-  {modules, []},
-
+  {maintainers, ["ESL", "@DenysGonchar", "@SafaricomAlpha", "@cmush"]},
   {licenses, ["Apache 2.0"]},
-  {links, []}
+  {links, [{"Github", "https://github.com/safaricom-alpha/config_parser"}]},
+  {build_tools, ["rebar3"]},
+  {env,[]},
+  {modules, []}
  ]}.
